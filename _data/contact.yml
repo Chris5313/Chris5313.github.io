@@ -1,0 +1,12 @@
+#  The contact options.
+
+- type: github
+  icon: "fab fa-github"
+
+- type: discord
+  icon: "fab fa-discord"
+  url: "https://discord.gg/DjkS6BUhv8"
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
