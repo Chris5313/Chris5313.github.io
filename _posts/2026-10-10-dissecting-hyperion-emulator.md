@@ -1,6 +1,6 @@
 ---
 title: "Anatomy of a Hyperion Emulator: Full Teardown of a Drop-In RobloxPlayerBeta.dll"
-date: 2026-10-10 16:45:00 -0700
+date: 2026-10-10 14:45:00 -0700
 categories: [Anti-Cheat, Reverse Engineering]
 tags: [hyperion, byfron, roblox, unpacking, veh, static-analysis, ida]
 description: A complete static teardown of a 37.5MB Hyperion emulator DLL — how it fingerprints the host, decodes a 100MB client image, splats it over the running process, reimplements Hyperion's VEH syscall contract, and spoofs hardware fingerprints.
